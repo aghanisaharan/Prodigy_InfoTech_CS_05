@@ -3,6 +3,7 @@
 This repository contains my Python program for Task 05 of the Cyber Security Internship at **Prodigy InfoTech**. 
 
 The objective of this project is to develop a packet sniffer tool that captures and analyzes network packets. It is designed to display relevant information such as source and destination IP addresses, protocols, and payload data. 
+
 **⚠️ Disclaimer:** This tool was created strictly for educational purposes. Ensure the ethical use of the tool for educational purposes and only capture traffic on networks where you have explicit authorization.
 
 ## Features
